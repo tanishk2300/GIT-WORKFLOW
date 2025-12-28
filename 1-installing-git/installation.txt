@@ -1,0 +1,13 @@
+to install git = " pip3 install git "
+
+
+#Configuring Git
+Run these commands in your terminal after installing Git:
+
+-> git config --global user.name "Your Name"
+-> git config --global user.email "you@example.com"
+-> git config --global core.editor "code --wait"  # optional, sets VS Code as editor
+
+#To check your config:
+
+-> git config --list

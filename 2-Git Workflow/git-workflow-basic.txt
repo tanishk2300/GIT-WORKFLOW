@@ -1,0 +1,9 @@
+#git workflow basics
+git has tree key area's 
+
+1.Working Directory=where you edit your file .
+2.Staging Area=where you prepare file to committing.
+3.Repository=where committed changes are stored permanently .
+_____________________________________
+| edit file -> git add -> git commit |
+-------------------------------------
