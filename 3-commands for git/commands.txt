@@ -1,0 +1,6 @@
+git commands :-
+
+1."git status"=show the status .
+2."git add ." = add the Directory to the staging area .
+3."git commit -m "initial file" " = this help to commit the file or Directory in Repository ,in brackit we can give the what i did and purpose(we can write what i change ).
+4."git log "=we can see when and who change in the file .
