@@ -1,6 +1,8 @@
 git commands :-
 
-1."git status"=show the status .
-2."git add ." = add the Directory to the staging area .
-3."git commit -m "initial file" " = this help to commit the file or Directory in Repository ,in brackit we can give the what i did and purpose(we can write what i change ).
-4."git log "=we can see when and who change in the file .
+1."git init"=start a new Repository
+2."git clone <url>"=copy a Repository
+3."git status"=cheak file status
+4."git add <file>"=stage changes
+5."git commit -m "msg" " =save staged changes 
+6."git log --online"=view history in short form 
