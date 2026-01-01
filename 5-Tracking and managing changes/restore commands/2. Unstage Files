@@ -1,0 +1,2 @@
+To remove files from staging area but keep changes:- git restore --staged file.txt
+Or the older syntax:- git reset HEAD file.txt

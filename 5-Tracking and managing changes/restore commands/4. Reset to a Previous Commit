@@ -1,0 +1,4 @@
+Soft Reset (keeps changes in staging):- git reset --soft HEAD~1
+Mixed Reset (keeps changes in working directory):- git reset HEAD~1
+Hard Reset (discards all changes):- git reset --hard HEAD~1
+Warning: --hard permanently deletes uncommitted work!

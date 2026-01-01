@@ -1,1 +1,0 @@
-if you wanna restore a unstaged file use = "git restore <file>"

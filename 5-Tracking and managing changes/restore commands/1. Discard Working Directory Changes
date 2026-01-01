@@ -1,0 +1,5 @@
+
+To restore a file to its last committed state:- git restore file.txt
+Or for all files:- git restore .
+Warning: This permanently discards uncommitted changes!
+

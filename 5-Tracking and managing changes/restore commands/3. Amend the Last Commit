@@ -1,0 +1,6 @@
+Forgot to include a file or want to change the commit message?
+# Stage the forgotten file
+git add forgotten.txt
+
+# Amend the previous commit
+git commit --amend -m "New commit message"
