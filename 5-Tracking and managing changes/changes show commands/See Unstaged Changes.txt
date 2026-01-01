@@ -1,0 +1,4 @@
+-See Unstaged Changes="git diff"
+-you can see changes of unstaged area
+-matlab m code m kuch add karu or save karu only working directry m ,
+ then m "git diff" use kar sakta hu uss m changes dekhne k liye .
