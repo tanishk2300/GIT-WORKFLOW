@@ -6,3 +6,17 @@ git commands :-
 4."git add <file>"=stage changes
 5."git commit -m "msg" " =save staged changes 
 6."git log --online"=view history in short form 
+
+
+__________add folder in repo ____________
+git remote add origin https://github.com/your-username/your-repo.git
+git checkout -b feature-branch
+git add .
+git commit -m "Initial commit"
+git push -u origin feature-branch
+
+_____________error________________solve
+Cd cpp 
+Git add . 
+git commit -m "updated a file"
+git push origin main

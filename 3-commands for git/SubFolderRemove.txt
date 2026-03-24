@@ -1,0 +1,9 @@
+
+__________help to solve the submodule___________
+git rm --cached folderName
+cd folderName 
+rm -rf .git
+cd ..
+git add folderName
+git commit -m "fixed submodule issue"
+git push
